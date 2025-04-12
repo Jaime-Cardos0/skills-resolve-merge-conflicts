@@ -1,1 +1,2 @@
-## Bora gerar um conflicto
+
+## Bora gerar um conflict
