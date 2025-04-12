@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+## Bora gerar um conflict
